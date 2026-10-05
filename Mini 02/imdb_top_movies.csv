@@ -1,0 +1,251 @@
+rank,title,year,rating,genre,cast,url
+,The Shawshank Redemption,1994,9.3,Drama,"Tim Robbins, Morgan Freeman, Bob Gunton",https://www.imdb.com/title/tt0111161/
+,The Godfather,1972,9.2,"Crime, Drama","Marlon Brando, Al Pacino, James Caan",https://www.imdb.com/title/tt0068646/
+,The Dark Knight,2008,9.1,"Crime, Thriller","Christian Bale, Heath Ledger, Aaron Eckhart",https://www.imdb.com/title/tt0468569/
+,The Godfather Part II,1974,9,"Crime, Drama","Al Pacino, Robert De Niro, Robert Duvall",https://www.imdb.com/title/tt0071562/
+,The Lord of the Rings: The Return of the King,2003,9,"Adventure, Drama, Fantasy","Elijah Wood, Viggo Mortensen, Ian McKellen",https://www.imdb.com/title/tt0167260/
+,12 Angry Men,1957,9,"Crime, Drama","Henry Fonda, Lee J. Cobb, Martin Balsam",https://www.imdb.com/title/tt0050083/
+,Schindler&apos;s List,1994,9,"Biography, Drama, History","Liam Neeson, Ralph Fiennes, Ben Kingsley",https://www.imdb.com/title/tt0108052/
+,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,"Adventure, Drama, Fantasy","Elijah Wood, Ian McKellen, Orlando Bloom",https://www.imdb.com/title/tt0120737/
+,Pulp Fiction,1994,8.8,"Crime, Drama","John Travolta, Uma Thurman, Samuel L. Jackson",https://www.imdb.com/title/tt0110912/
+,The Lord of the Rings: The Two Towers,2002,8.8,"Adventure, Drama, Fantasy","Elijah Wood, Ian McKellen, Viggo Mortensen",https://www.imdb.com/title/tt0167261/
+,"Il buono, il brutto, il cattivo",1967,8.8,"Adventure, Drama, Western","Clint Eastwood, Eli Wallach, Lee Van Cleef",https://www.imdb.com/title/tt0060196/
+,Forrest Gump,1994,8.8,"Drama, Romance","Tom Hanks, Robin Wright, Gary Sinise",https://www.imdb.com/title/tt0109830/
+,Fight Club,1999,8.8,"Crime, Drama, Thriller","Brad Pitt, Edward Norton, Meat Loaf",https://www.imdb.com/title/tt0137523/
+,Inception,2010,8.8,"Adventure, Sci-Fi, Thriller","Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",https://www.imdb.com/title/tt1375666/
+,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,"Adventure, Fantasy, Sci-Fi","Mark Hamill, Harrison Ford, Carrie Fisher",https://www.imdb.com/title/tt0080684/
+,The Matrix,1999,8.7,"Action, Sci-Fi","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",https://www.imdb.com/title/tt0133093/
+,Interstellar,2014,8.7,"Adventure, Drama, Sci-Fi","Matthew McConaughey, Anne Hathaway, Jessica Chastain",https://www.imdb.com/title/tt0816692/
+,GoodFellas,1990,8.7,"Biography, Crime, Drama","Robert De Niro, Ray Liotta, Joe Pesci",https://www.imdb.com/title/tt0099685/
+,One Flew Over the Cuckoo&apos;s Nest,1975,8.6,Drama,"Jack Nicholson, Louise Fletcher, Michael Berryman",https://www.imdb.com/title/tt0073486/
+,Se7en,1995,8.6,"Crime, Drama, Mystery","Morgan Freeman, Brad Pitt, Kevin Spacey",https://www.imdb.com/title/tt0114369/
+,It&apos;s a Wonderful Life,1947,8.6,"Drama, Family, Fantasy","James Stewart, Donna Reed, Lionel Barrymore",https://www.imdb.com/title/tt0038650/
+,The Silence of the Lambs,1991,8.6,"Crime, Drama, Horror","Jodie Foster, Anthony Hopkins, Scott Glenn",https://www.imdb.com/title/tt0102926/
+,Saving Private Ryan,1998,8.6,"Drama, War","Tom Hanks, Matt Damon, Tom Sizemore",https://www.imdb.com/title/tt0120815/
+,Shichinin no samurai,1956,8.6,"Action, Drama","Toshirō Mifune, Takashi Shimura, Keiko Tsushima",https://www.imdb.com/title/tt0047478/
+,The Green Mile,1999,8.6,"Crime, Drama, Fantasy","Tom Hanks, Michael Clarke Duncan, David Morse",https://www.imdb.com/title/tt0120689/
+,Cidade de Deus,2004,8.6,"Crime, Drama","Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",https://www.imdb.com/title/tt0317248/
+,La vita è bella,1997,8.6,"Comedy, Drama, Romance","Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",https://www.imdb.com/title/tt0118799/
+,Terminator 2: Judgment Day,1991,8.6,"Action, Adventure, Sci-Fi","Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",https://www.imdb.com/title/tt0103064/
+,Back to the Future,1985,8.5,"Adventure, Comedy, Sci-Fi","Michael J. Fox, Christopher Lloyd, Lea Thompson",https://www.imdb.com/title/tt0088763/
+,Star Wars,1977,8.6,"Action, Adventure, Fantasy","Mark Hamill, Harrison Ford, Carrie Fisher",https://www.imdb.com/title/tt0076759/
+,Sen to Chihiro no kamikakushi,2003,8.6,"Animation, Adventure, Family","Miyu Irino, Rumi Hiiragi, Mari Natsuki",https://www.imdb.com/title/tt0245429/
+,Kill Bill: The Whole Bloody Affair,2025,8.7,"Action, Crime, Thriller","Vivica A. Fox, Ambrosia Kelley, Michael Parks",https://www.imdb.com/title/tt6019206/
+,Gladiator,2000,8.5,"Action, Adventure, Drama","Russell Crowe, Joaquin Phoenix, Connie Nielsen",https://www.imdb.com/title/tt0172495/
+,The Pianist,2003,8.5,"Biography, Drama, Music","Adrien Brody, Thomas Kretschmann, Frank Finlay",https://www.imdb.com/title/tt0253474/
+,Gisaengchung,2019,8.5,"Drama, Thriller","Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",https://www.imdb.com/title/tt6751668/
+,Hotaru no haka,1989,8.5,"Animation, Drama, War","Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",https://www.imdb.com/title/tt0095327/
+,Seppuku,1964,8.6,"Drama, Mystery","Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",https://www.imdb.com/title/tt0056058/
+,Psycho,1960,8.5,"Drama, Horror, Mystery","Anthony Perkins, Janet Leigh, Vera Miles",https://www.imdb.com/title/tt0054215/
+,The Lion King,1994,8.5,"Animation, Adventure, Drama","Matthew Broderick, Jeremy Irons, James Earl Jones",https://www.imdb.com/title/tt0110357/
+,The Departed,2006,8.5,"Crime, Drama, Thriller","Leonardo DiCaprio, Matt Damon, Jack Nicholson",https://www.imdb.com/title/tt0407887/
+,Whiplash,2014,8.5,"Drama, Music","Miles Teller, J.K. Simmons, Melissa Benoist",https://www.imdb.com/title/tt2582802/
+,The Prestige,2006,8.5,"Drama, Mystery, Sci-Fi","Christian Bale, Hugh Jackman, Scarlett Johansson",https://www.imdb.com/title/tt0482571/
+,American History X,1998,8.5,"Crime, Drama","Edward Norton, Edward Furlong, Beverly D&apos;Angelo",https://www.imdb.com/title/tt0120586/
+,Spider-Man: Across the Spider-Verse,2023,8.5,"Animation, Action, Adventure","Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",https://www.imdb.com/title/tt9362722/
+,Léon,1994,8.5,"Action, Crime, Drama","Jean Reno, Gary Oldman, Natalie Portman",https://www.imdb.com/title/tt0110413/
+,Nuovo Cinema Paradiso,1990,8.5,"Drama, Romance","Philippe Noiret, Enzo Cannavale, Antonella Attili",https://www.imdb.com/title/tt0095765/
+,Casablanca,1943,8.5,"Drama, Romance, War","Humphrey Bogart, Ingrid Bergman, Paul Henreid",https://www.imdb.com/title/tt0034583/
+,Intouchables,2011,8.5,"Comedy, Drama","François Cluzet, Omar Sy, Anne Le Ny",https://www.imdb.com/title/tt1675434/
+,The Usual Suspects,1995,8.5,"Crime, Drama, Mystery","Kevin Spacey, Gabriel Byrne, Chazz Palminteri",https://www.imdb.com/title/tt0114814/
+,Django Unchained,2012,8.5,"Drama, Western","Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",https://www.imdb.com/title/tt1853728/
+,Alien,1979,8.4,"Horror, Sci-Fi","Sigourney Weaver, Tom Skerritt, John Hurt",https://www.imdb.com/title/tt0078748/
+,Rear Window,1954,8.4,"Drama, Mystery, Thriller","James Stewart, Grace Kelly, Wendell Corey",https://www.imdb.com/title/tt0047396/
+,Modern Times,1936,8.5,"Comedy, Drama, Romance","Charles Chaplin, Paulette Goddard, Henry Bergman",https://www.imdb.com/title/tt0027977/
+,C&apos;era una volta il West,1969,8.5,"Drama, Western","Henry Fonda, Charles Bronson, Claudia Cardinale",https://www.imdb.com/title/tt0064116/
+,City Lights,1931,8.5,"Comedy, Drama, Romance","Charles Chaplin, Virginia Cherrill, Florence Lee",https://www.imdb.com/title/tt0021749/
+,WALL·E,2008,8.4,"Animation, Adventure, Family","Ben Burtt, Elissa Knight, Jeff Garlin",https://www.imdb.com/title/tt0910970/
+,Apocalypse Now,1979,8.4,"Drama, Mystery, War","Martin Sheen, Marlon Brando, Robert Duvall",https://www.imdb.com/title/tt0078788/
+,Memento,2001,8.4,"Mystery, Thriller","Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",https://www.imdb.com/title/tt0209144/
+,Avengers: Infinity War,2018,8.4,"Action, Adventure, Sci-Fi","Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",https://www.imdb.com/title/tt4154756/
+,Dune: Part Two,2024,8.4,"Action, Adventure, Drama","Timothée Chalamet, Zendaya, Rebecca Ferguson",https://www.imdb.com/title/tt15239678/
+,The Odyssey,2026,8.4,"Action, Adventure, Fantasy","Matt Damon, Tom Holland, Anne Hathaway",https://www.imdb.com/title/tt33764258/
+,Raiders of the Lost Ark,1981,8.4,Adventure,"Harrison Ford, Karen Allen, Paul Freeman",https://www.imdb.com/title/tt0082971/
+,Spider-Man: Into the Spider-Verse,2018,8.4,"Animation, Action, Adventure","Shameik Moore, Jake Johnson, Hailee Steinfeld",https://www.imdb.com/title/tt4633694/
+,Das Leben der Anderen,2007,8.4,"Drama, Mystery, Thriller","Ulrich Mühe, Martina Gedeck, Sebastian Koch",https://www.imdb.com/title/tt0405094/
+,Sunset Blvd.,1950,8.4,"Drama, Film-Noir","William Holden, Gloria Swanson, Erich von Stroheim",https://www.imdb.com/title/tt0043014/
+,Witness for the Prosecution,1958,8.4,"Crime, Drama, Mystery","Tyrone Power, Marlene Dietrich, Charles Laughton",https://www.imdb.com/title/tt0051201/
+,Paths of Glory,1957,8.4,"Drama, War","Kirk Douglas, Ralph Meeker, Adolphe Menjou",https://www.imdb.com/title/tt0050825/
+,Inglourious Basterds,2009,8.4,"Drama, War","Brad Pitt, Diane Kruger, Eli Roth",https://www.imdb.com/title/tt0361748/
+,The Shining,1980,8.4,"Drama, Horror","Jack Nicholson, Shelley Duvall, Danny Lloyd",https://www.imdb.com/title/tt0081505/
+,The Great Dictator,1941,8.4,"Comedy, Drama, War","Charles Chaplin, Paulette Goddard, Jack Oakie",https://www.imdb.com/title/tt0032553/
+,Aliens,1986,8.4,"Action, Adventure, Horror","Sigourney Weaver, Michael Biehn, Carrie Henn",https://www.imdb.com/title/tt0090605/
+,12th Fail,2023,8.7,"Biography, Drama","Vikrant Massey, Harish Khanna, Geeta Agrawal Sharma",https://www.imdb.com/title/tt23849204/
+,Tengoku to jigoku,1963,8.4,"Crime, Drama, Mystery","Toshirō Mifune, Yutaka Sada, Tatsuya Nakadai",https://www.imdb.com/title/tt0057565/
+,Avengers: Endgame,2019,8.4,"Action, Adventure, Sci-Fi","Robert Downey Jr., Chris Evans, Mark Ruffalo",https://www.imdb.com/title/tt4154796/
+,Good Will Hunting,1998,8.4,"Drama, Romance","Robin Williams, Matt Damon, Ben Affleck",https://www.imdb.com/title/tt0119217/
+,Coco,2017,8.4,"Animation, Adventure, Drama","Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",https://www.imdb.com/title/tt2380307/
+,Toy Story,1995,8.3,"Animation, Adventure, Comedy","Tom Hanks, Tim Allen, Don Rickles",https://www.imdb.com/title/tt0114709/
+,The Dark Knight Rises,2012,8.4,"Crime, Thriller","Christian Bale, Tom Hardy, Anne Hathaway",https://www.imdb.com/title/tt1345836/
+,Amadeus,1984,8.4,"Biography, Drama, Music","F. Murray Abraham, Tom Hulce, Elizabeth Berridge",https://www.imdb.com/title/tt0086879/
+,Kimi no na wa.,2017,8.4,"Animation, Drama, Fantasy","Ryûnosuke Kamiki, Mone Kamishiraishi, Ryō Narita",https://www.imdb.com/title/tt5311514/
+,3 Idiots,2009,8.4,"Comedy, Drama","Aamir Khan, Madhavan, Mona Singh",https://www.imdb.com/title/tt1187043/
+,Das Boot,1982,8.3,"Drama, War","Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann",https://www.imdb.com/title/tt0082096/
+,Braveheart,1995,8.3,"Drama, War","Mel Gibson, Sophie Marceau, Patrick McGoohan",https://www.imdb.com/title/tt0112573/
+,Mononoke-hime,1997,8.3,"Animation, Adventure, Fantasy","Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",https://www.imdb.com/title/tt0119698/
+,Oldeuboi,2003,8.3,"Action, Drama, Mystery","Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",https://www.imdb.com/title/tt0364569/
+,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,"Comedy, War","Peter Sellers, George C. Scott, Sterling Hayden",https://www.imdb.com/title/tt0057012/
+,American Beauty,1999,8.3,Drama,"Kevin Spacey, Annette Bening, Thora Birch",https://www.imdb.com/title/tt0169547/
+,Capharnaüm,2018,8.4,Drama,"Zain Al Rafeea, Yordanos Shifera, Boluwatife Treasure Bankole",https://www.imdb.com/title/tt8267604/
+,Singin&apos; in the Rain,1952,8.3,"Comedy, Musical, Romance","Gene Kelly, Donald O&apos;Connor, Debbie Reynolds",https://www.imdb.com/title/tt0045152/
+,C&apos;era una volta in America,1984,8.3,"Crime, Drama","Robert De Niro, James Woods, Elizabeth McGovern",https://www.imdb.com/title/tt0087843/
+,Joker,2019,8.3,Drama,"Joaquin Phoenix, Robert De Niro, Zazie Beetz",https://www.imdb.com/title/tt7286456/
+,Toy Story 3,2010,8.3,"Animation, Adventure, Comedy","Tom Hanks, Tim Allen, Joan Cusack",https://www.imdb.com/title/tt0435761/
+,Star Wars: Episode VI - Return of the Jedi,1983,8.3,"Action, Adventure, Fantasy","Mark Hamill, Harrison Ford, Carrie Fisher",https://www.imdb.com/title/tt0086190/
+,Idi i smotri,1985,8.3,"Drama, Thriller, War","Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius",https://www.imdb.com/title/tt0091251/
+,Requiem for a Dream,2000,8.3,Drama,"Ellen Burstyn, Jared Leto, Jennifer Connelly",https://www.imdb.com/title/tt0180093/
+,Shingeki no Kyojin: The Last Attack,2024,8.9,"Animation, Action, Adventure","Tomás Abalo, Natsuki Hanae, Yoshimasa Hosoya",https://www.imdb.com/title/tt33175825/
+,Ikiru,1956,8.3,Drama,"Takashi Shimura, Nobuo Kaneko, Shin&apos;ichi Himori",https://www.imdb.com/title/tt0044741/
+,Incendies,2011,8.3,"Drama, Mystery, War","Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette",https://www.imdb.com/title/tt1255953/
+,Jagten,2012,8.3,Drama,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",https://www.imdb.com/title/tt2106476/
+,Eternal Sunshine of the Spotless Mind,2004,8.3,"Drama, Romance, Sci-Fi","Jim Carrey, Kate Winslet, Tom Wilkinson",https://www.imdb.com/title/tt0338013/
+,The Apartment,1960,8.3,"Comedy, Drama, Romance","Jack Lemmon, Shirley MacLaine, Fred MacMurray",https://www.imdb.com/title/tt0053604/
+,Lawrence of Arabia,1962,8.3,"Adventure, Biography, Drama","Peter O&apos;Toole, Alec Guinness, Anthony Quinn",https://www.imdb.com/title/tt0056172/
+,Heat,1995,8.3,"Action, Crime, Drama","Al Pacino, Robert De Niro, Val Kilmer",https://www.imdb.com/title/tt0113277/
+,Scarface,1983,8.3,"Crime, Drama","Al Pacino, Michelle Pfeiffer, Steven Bauer",https://www.imdb.com/title/tt0086250/
+,Reservoir Dogs,1992,8.2,"Crime, Thriller","Harvey Keitel, Tim Roth, Michael Madsen",https://www.imdb.com/title/tt0105236/
+,Up,2009,8.3,"Animation, Adventure, Comedy","Edward Asner, Jordan Nagai, John Ratzenberger",https://www.imdb.com/title/tt1049413/
+,2001: A Space Odyssey,1968,8.3,"Adventure, Sci-Fi","Keir Dullea, Gary Lockwood, William Sylvester",https://www.imdb.com/title/tt0062622/
+,Double Indemnity,1944,8.3,"Crime, Drama, Film-Noir","Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",https://www.imdb.com/title/tt0036775/
+,Taare Zameen Par,2007,8.3,"Drama, Family","Darsheel Safary, Aamir Khan, Tisca Chopra",https://www.imdb.com/title/tt0986264/
+,North by Northwest,1959,8.2,"Adventure, Drama, Mystery","Cary Grant, Eva Marie Saint, James Mason",https://www.imdb.com/title/tt0053125/
+,I Swear,2026,8.3,"Biography, Drama","Robert Aramayo, Maxine Peake, Somerled Campbell",https://www.imdb.com/title/tt31514146/
+,Full Metal Jacket,1987,8.2,"Drama, War","Matthew Modine, R. Lee Ermey, Vincent D&apos;Onofrio",https://www.imdb.com/title/tt0093058/
+,Jodaeiye Nader az Simin,2011,8.3,Drama,"Payman Maadi, Leila Hatami, Sareh Bayat",https://www.imdb.com/title/tt1832382/
+,Die Hard,1988,8.2,"Action, Thriller","Bruce Willis, Alan Rickman, Bonnie Bedelia",https://www.imdb.com/title/tt0095016/
+,M - Eine Stadt sucht einen Mörder,1931,8.3,"Crime, Mystery, Thriller","Peter Lorre, Ellen Widmann, Inge Landgut",https://www.imdb.com/title/tt0022100/
+,Le fabuleux destin d&apos;Amélie Poulain,2002,8.2,"Comedy, Romance","Audrey Tautou, Mathieu Kassovitz, Rufus",https://www.imdb.com/title/tt0211915/
+,Vertigo,1958,8.2,"Mystery, Romance, Thriller","James Stewart, Kim Novak, Barbara Bel Geddes",https://www.imdb.com/title/tt0052357/
+,To Kill a Mockingbird,1963,8.2,"Crime, Drama","Gregory Peck, John Megna, Frank Overton",https://www.imdb.com/title/tt0056592/
+,Citizen Kane,1941,8.2,"Drama, Mystery","Orson Welles, Joseph Cotten, Dorothy Comingore",https://www.imdb.com/title/tt0033467/
+,Indiana Jones and the Last Crusade,1989,8.2,Adventure,"Harrison Ford, Sean Connery, Alison Doody",https://www.imdb.com/title/tt0097576/
+,The Sting,1973,8.2,"Comedy, Crime, Drama","Paul Newman, Robert Redford, Robert Shaw",https://www.imdb.com/title/tt0070735/
+,A Clockwork Orange,1972,8.2,"Crime, Sci-Fi","Malcolm McDowell, Patrick Magee, Michael Bates",https://www.imdb.com/title/tt0066921/
+,Metropolis,1927,8.2,"Drama, Sci-Fi","Brigitte Helm, Alfred Abel, Gustav Fröhlich",https://www.imdb.com/title/tt0017136/
+,1917,2020,8.2,"Drama, War","Dean-Charles Chapman, George MacKay, Daniel Mays",https://www.imdb.com/title/tt8579674/
+,The Wolf of Wall Street,2013,8.2,"Biography, Comedy, Crime","Leonardo DiCaprio, Jonah Hill, Margot Robbie",https://www.imdb.com/title/tt0993846/
+,The Truman Show,1998,8.2,"Comedy, Drama","Jim Carrey, Ed Harris, Laura Linney",https://www.imdb.com/title/tt0120382/
+,Snatch,2001,8.2,"Comedy, Crime","Jason Statham, Brad Pitt, Stephen Graham",https://www.imdb.com/title/tt0208092/
+,Der Untergang,2005,8.2,"Biography, Drama, History","Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes",https://www.imdb.com/title/tt0363163/
+,Shutter Island,2010,8.2,"Mystery, Thriller","Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",https://www.imdb.com/title/tt1130884/
+,L.A. Confidential,1997,8.2,"Crime, Drama, Mystery","Kevin Spacey, Russell Crowe, Guy Pearce",https://www.imdb.com/title/tt0119488/
+,Suna no onna,1964,8.4,"Drama, Thriller","Eiji Okada, Kyôko Kishida, Kōji Mitsui",https://www.imdb.com/title/tt0058625/
+,Green Book,2018,8.2,"Biography, Comedy, Drama","Viggo Mortensen, Mahershala Ali, Linda Cardellini",https://www.imdb.com/title/tt6966692/
+,Dangal,2016,8.3,"Action, Biography, Drama","Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh",https://www.imdb.com/title/tt5074352/
+,Ladri di biciclette,1949,8.2,Drama,"Lamberto Maggiorani, Enzo Staiola, Lianella Carell",https://www.imdb.com/title/tt0040522/
+,Judgment at Nuremberg,1961,8.3,"Drama, History, War","Spencer Tracy, Burt Lancaster, Richard Widmark",https://www.imdb.com/title/tt0055031/
+,Jurassic Park,1993,8.2,"Adventure, Sci-Fi","Sam Neill, Laura Dern, Jeff Goldblum",https://www.imdb.com/title/tt0107290/
+,Batman Begins,2005,8.2,Crime,"Christian Bale, Michael Caine, Ken Watanabe",https://www.imdb.com/title/tt0372784/
+,Oppenheimer,2023,8.2,"Biography, Drama, History","Cillian Murphy, Emily Blunt, Matt Damon",https://www.imdb.com/title/tt15398776/
+,Per qualche dollaro in più,1967,8.2,"Drama, Western","Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",https://www.imdb.com/title/tt0059578/
+,Hamilton,2020,8.3,"Biography, Drama, History","Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.",https://www.imdb.com/title/tt8503618/
+,There Will Be Blood,2008,8.2,Drama,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds",https://www.imdb.com/title/tt0469494/
+,Some Like It Hot,1959,8.2,"Comedy, Music, Romance","Marilyn Monroe, Tony Curtis, Jack Lemmon",https://www.imdb.com/title/tt0053291/
+,Taxi Driver,1976,8.2,"Crime, Drama","Robert De Niro, Jodie Foster, Cybill Shepherd",https://www.imdb.com/title/tt0075314/
+,The Father,2021,8.2,"Drama, Mystery","Anthony Hopkins, Olivia Colman, Mark Gatiss",https://www.imdb.com/title/tt10272386/
+,The Kid,1921,8.2,"Comedy, Drama, Family","Charles Chaplin, Edna Purviance, Jackie Coogan",https://www.imdb.com/title/tt0012349/
+,The Sixth Sense,1999,8.2,"Drama, Mystery, Thriller","Bruce Willis, Haley Joel Osment, Toni Collette",https://www.imdb.com/title/tt0167404/
+,All About Eve,1950,8.2,Drama,"Bette Davis, Anne Baxter, George Sanders",https://www.imdb.com/title/tt0042192/
+,Ran,1985,8.2,"Action, Drama, War","Tatsuya Nakadai, Akira Terao, Jinpachi Nezu",https://www.imdb.com/title/tt0089881/
+,Casino,1995,8.2,"Crime, Drama","Robert De Niro, Sharon Stone, Joe Pesci",https://www.imdb.com/title/tt0112641/
+,The Thing,1982,8.2,"Horror, Mystery, Sci-Fi","Kurt Russell, Wilford Brimley, Keith David",https://www.imdb.com/title/tt0084787/
+,No Country for Old Men,2007,8.2,"Crime, Drama, Thriller","Tommy Lee Jones, Javier Bardem, Josh Brolin",https://www.imdb.com/title/tt0477348/
+,Prisoners,2013,8.2,"Crime, Drama, Mystery","Hugh Jackman, Jake Gyllenhaal, Viola Davis",https://www.imdb.com/title/tt1392214/
+,Top Gun: Maverick,2022,8.2,"Action, Drama","Tom Cruise, Jennifer Connelly, Miles Teller",https://www.imdb.com/title/tt1745960/
+,Kill Bill: Vol. 1,2003,8.2,"Action, Crime, Thriller","Uma Thurman, David Carradine, Daryl Hannah",https://www.imdb.com/title/tt0266697/
+,El laberinto del fauno,2007,8.2,"Drama, Fantasy, War","Ivana Baquero, Ariadna Gil, Sergi López",https://www.imdb.com/title/tt0457430/
+,Unforgiven,1992,8.2,"Drama, Western","Clint Eastwood, Gene Hackman, Morgan Freeman",https://www.imdb.com/title/tt0105695/
+,A Beautiful Mind,2002,8.2,"Biography, Drama, Mystery","Russell Crowe, Ed Harris, Jennifer Connelly",https://www.imdb.com/title/tt0268978/
+,Hauru no ugoku shiro,2005,8.2,"Animation, Adventure, Family","Chieko Baishō, Takuya Kimura, Tatsuya Gashûin",https://www.imdb.com/title/tt0347149/
+,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,8.4,"Animation, Action, Adventure","Zach Aguilar, Saeko Akiho, Yohei Azakami",https://www.imdb.com/title/tt32820897/
+,Project Hail Mary,2026,8.2,"Adventure, Comedy, Drama","Ryan Gosling, Sandra Hüller, James Ortiz",https://www.imdb.com/title/tt12042730/
+,The Treasure of the Sierra Madre,1948,8.2,"Adventure, Drama, Western","Humphrey Bogart, Walter Huston, Tim Holt",https://www.imdb.com/title/tt0040897/
+,Finding Nemo,2003,8.2,"Animation, Adventure, Comedy","Albert Brooks, Ellen DeGeneres, Alexander Gould",https://www.imdb.com/title/tt0266543/
+,Klaus,2019,8.2,"Animation, Adventure, Comedy","Jason Schwartzman, J.K. Simmons, Rashida Jones",https://www.imdb.com/title/tt4729430/
+,Yôjinbô,1961,8.2,"Action, Drama, Thriller","Toshirō Mifune, Eijirō Tōno, Tatsuya Nakadai",https://www.imdb.com/title/tt0055630/
+,The Elephant Man,1980,8.2,"Biography, Drama","Anthony Hopkins, John Hurt, Anne Bancroft",https://www.imdb.com/title/tt0080678/
+,The Great Escape,1963,8.2,"Adventure, Drama, Thriller","Steve McQueen, James Garner, Richard Attenborough",https://www.imdb.com/title/tt0057115/
+,Monty Python and the Holy Grail,1975,8.1,"Adventure, Comedy, Fantasy","Graham Chapman, John Cleese, Eric Idle",https://www.imdb.com/title/tt0071853/
+,Dial M for Murder,1954,8.1,"Crime, Drama, Mystery","Ray Milland, Grace Kelly, Robert Cummings",https://www.imdb.com/title/tt0046912/
+,El secreto de sus ojos,2010,8.2,"Drama, Mystery, Romance","Ricardo Darín, Soledad Villamil, Pablo Rago",https://www.imdb.com/title/tt1305806/
+,Gone with the Wind,1940,8.2,"Drama, Romance, War","Clark Gable, Vivien Leigh, Thomas Mitchell",https://www.imdb.com/title/tt0031381/
+,"Lock, Stock and Two Smoking Barrels",1998,8.1,"Comedy, Crime","Jason Flemyng, Dexter Fletcher, Nick Moran",https://www.imdb.com/title/tt0120735/
+,Chinatown,1974,8.1,"Drama, Mystery, Thriller","Jack Nicholson, Faye Dunaway, John Huston",https://www.imdb.com/title/tt0071315/
+,Catch Me If You Can,2002,8.1,"Biography, Crime, Drama","Leonardo DiCaprio, Tom Hanks, Christopher Walken",https://www.imdb.com/title/tt0264464/
+,V for Vendetta,2006,8.1,"Action, Drama, Sci-Fi","Hugo Weaving, Natalie Portman, Rupert Graves",https://www.imdb.com/title/tt0434409/
+,La meglio gioventù,2003,8.4,"Drama, Romance","Luigi Lo Cascio, Alessio Boni, Jasmine Trinca",https://www.imdb.com/title/tt0346336/
+,Dead Poets Society,1989,8.1,"Comedy, Drama","Robin Williams, Robert Sean Leonard, Ethan Hawke",https://www.imdb.com/title/tt0097165/
+,Inside Out,2015,8.1,"Animation, Adventure, Comedy","Amy Poehler, Bill Hader, Lewis Black",https://www.imdb.com/title/tt2096673/
+,Trainspotting,1996,8.1,"Crime, Drama","Ewan McGregor, Ewen Bremner, Jonny Lee Miller",https://www.imdb.com/title/tt0117951/
+,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,"Adventure, Family, Fantasy","Daniel Radcliffe, Emma Watson, Rupert Grint",https://www.imdb.com/title/tt1201607/
+,"Three Billboards Outside Ebbing, Missouri",2017,8.1,"Comedy, Crime, Drama","Frances McDormand, Woody Harrelson, Sam Rockwell",https://www.imdb.com/title/tt5027774/
+,The Bridge on the River Kwai,1957,8.1,"Adventure, Drama, War","William Holden, Alec Guinness, Jack Hawkins",https://www.imdb.com/title/tt0050212/
+,Rashômon,1951,8.1,"Crime, Drama, Mystery","Toshirō Mifune, Machiko Kyô, Masayuki Mori",https://www.imdb.com/title/tt0042876/
+,Barry Lyndon,1975,8.1,"Adventure, Drama, War","Ryan O&apos;Neal, Marisa Berenson, Patrick Magee",https://www.imdb.com/title/tt0072684/
+,Ben-Hur,1959,8.1,"Adventure, Drama","Charlton Heston, Jack Hawkins, Stephen Boyd",https://www.imdb.com/title/tt0052618/
+,The Wild Robot,2024,8.1,"Animation, Adventure, Family","Lupita Nyong&apos;o, Pedro Pascal, Kit Connor",https://www.imdb.com/title/tt29623480/
+,Warrior,2011,8.1,"Action, Drama, Sport","Tom Hardy, Nick Nolte, Joel Edgerton",https://www.imdb.com/title/tt1291584/
+,Hacksaw Ridge,2016,8.1,"Biography, Drama, History","Andrew Garfield, Sam Worthington, Luke Bracey",https://www.imdb.com/title/tt2119532/
+,Ratatouille,2007,8.1,"Animation, Adventure, Comedy","Brad Garrett, Lou Romano, Patton Oswalt",https://www.imdb.com/title/tt0382932/
+,Mad Max: Fury Road,2015,8.1,"Action, Adventure, Sci-Fi","Tom Hardy, Charlize Theron, Nicholas Hoult",https://www.imdb.com/title/tt1392190/
+,Fargo,1996,8.1,"Crime, Drama, Thriller","William H. Macy, Frances McDormand, Steve Buscemi",https://www.imdb.com/title/tt0116282/
+,Million Dollar Baby,2005,8.1,"Drama, Sport","Hilary Swank, Clint Eastwood, Morgan Freeman",https://www.imdb.com/title/tt0405159/
+,Bacheha-ye aseman,1999,8.2,"Drama, Family, Sport","Reza Naji, Amir Farrokh Hashemian, Bahare Seddiqi",https://www.imdb.com/title/tt0118849/
+,Tonari no Totoro,1990,8.1,"Animation, Adventure, Comedy","Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",https://www.imdb.com/title/tt0096283/
+,Gran Torino,2009,8.1,Drama,"Clint Eastwood, Bee Vang, Christopher Carley",https://www.imdb.com/title/tt1205489/
+,Raging Bull,1980,8.1,"Biography, Drama, Sport","Robert De Niro, Cathy Moriarty, Joe Pesci",https://www.imdb.com/title/tt0081398/
+,12 Years a Slave,2013,8.1,"Biography, Drama, History","Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",https://www.imdb.com/title/tt2024544/
+,How to Train Your Dragon,2010,8.1,"Animation, Action, Adventure","Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",https://www.imdb.com/title/tt0892769/
+,Salinui chueok,2003,8.1,"Crime, Drama, Mystery","Song Kang-ho, Kim Sang-kyung, Kim Roe-ha",https://www.imdb.com/title/tt0353969/
+,The Grand Budapest Hotel,2014,8.1,"Comedy, Drama","Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",https://www.imdb.com/title/tt2278388/
+,Before Sunrise,1995,8.1,"Comedy, Drama, Romance","Ethan Hawke, Julie Delpy, Andrea Eckert",https://www.imdb.com/title/tt0112471/
+,"Monsters, Inc.",2001,8.1,"Animation, Adventure, Comedy","Billy Crystal, John Goodman, Mary Gibbs",https://www.imdb.com/title/tt0198781/
+,Blade Runner,1982,8.1,"Action, Drama, Sci-Fi","Harrison Ford, Rutger Hauer, Sean Young",https://www.imdb.com/title/tt0083658/
+,Gone Girl,2014,8.1,"Drama, Mystery, Thriller","Ben Affleck, Rosamund Pike, Neil Patrick Harris",https://www.imdb.com/title/tt2267998/
+,Ford v Ferrari,2019,8.1,"Action, Biography, Drama","Matt Damon, Christian Bale, Jon Bernthal",https://www.imdb.com/title/tt1950186/
+,Jaws,1975,8.1,"Adventure, Drama, Horror","Roy Scheider, Robert Shaw, Richard Dreyfuss",https://www.imdb.com/title/tt0073195/
+,In the Name of the Father,1994,8.1,"Biography, Crime, Drama","Daniel Day-Lewis, Pete Postlethwaite, Anthony Brophy",https://www.imdb.com/title/tt0107207/
+,Spider-Man: No Way Home,2021,8.1,"Action, Adventure, Fantasy","Tom Holland, Zendaya, Benedict Cumberbatch",https://www.imdb.com/title/tt10872600/
+,Gekijô-ban Chensô Man Reze-hen,2025,8.3,"Animation, Action, Adventure","Kikunosuke Toya, Shiori Izawa, Tomori Kusunoki",https://www.imdb.com/title/tt30472557/
+,Relatos salvajes,2014,8.1,"Comedy, Drama, Thriller","Darío Grandinetti, María Marull, Mónica Villa",https://www.imdb.com/title/tt3011894/
+,The Gold Rush,1925,8.1,"Adventure, Comedy, Drama","Charles Chaplin, Mack Swain, Tom Murray",https://www.imdb.com/title/tt0015864/
+,Sherlock Jr.,1924,8.1,"Action, Comedy, Romance","Buster Keaton, Kathryn McGuire, Joe Keaton",https://www.imdb.com/title/tt0015324/
+,Koe no katachi,2016,8.2,"Animation, Drama","Miyu Irino, Saori Hayami, Aoi Yûki",https://www.imdb.com/title/tt5323662/
+,Mary and Max.,2009,8.1,"Animation, Comedy, Drama","Toni Collette, Philip Seymour Hoffman, Eric Bana",https://www.imdb.com/title/tt0978762/
+,The Deer Hunter,1979,8.1,"Drama, War","Robert De Niro, Christopher Walken, John Cazale",https://www.imdb.com/title/tt0077416/
+,Le salaire de la peur,1955,8.1,"Adventure, Drama, Thriller","Yves Montand, Charles Vanel, Peter van Eyck",https://www.imdb.com/title/tt0046268/
+,Logan,2017,8.1,"Action, Drama, Sci-Fi","Hugh Jackman, Patrick Stewart, Dafne Keen",https://www.imdb.com/title/tt3315342/
+,Rocky,1976,8.1,"Drama, Sport","Sylvester Stallone, Talia Shire, Burt Young",https://www.imdb.com/title/tt0075148/
+,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,"Action, Adventure, Fantasy","Johnny Depp, Geoffrey Rush, Orlando Bloom",https://www.imdb.com/title/tt0325980/
+,The General,1927,8.1,"Action, Adventure, Comedy","Buster Keaton, Marion Mack, Glen Cavender",https://www.imdb.com/title/tt0017925/
+,Mr. Smith Goes to Washington,1939,8.1,"Comedy, Drama","James Stewart, Jean Arthur, Claude Rains",https://www.imdb.com/title/tt0031679/
+,Tôkyô monogatari,1953,8.1,Drama,"Chishū Ryū, Chieko Higashiyama, Sō Yamamura",https://www.imdb.com/title/tt0046438/
+,La haine,1996,8.1,"Crime, Drama","Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",https://www.imdb.com/title/tt0113247/
+,Jai Bhim,2021,8.6,"Crime, Drama","Suriya, Lijo Mol Jose, Manikandan K.",https://www.imdb.com/title/tt15097216/
+,Spotlight,2015,8.1,"Biography, Crime, Drama","Mark Ruffalo, Michael Keaton, Rachel McAdams",https://www.imdb.com/title/tt1895587/
+,The Sound of Music,1965,8.1,"Biography, Drama, Family","Julie Andrews, Christopher Plummer, Eleanor Parker",https://www.imdb.com/title/tt0059742/
+,Maharaja,2024,8.3,"Action, Crime, Drama","Vijay Sethupathi, Anurag Kashyap, Mamta Mohandas",https://www.imdb.com/title/tt26548265/
+,The Terminator,1984,8.1,"Action, Adventure, Sci-Fi","Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",https://www.imdb.com/title/tt0088247/
+,Smultronstället,1959,8.1,"Drama, Romance","Victor Sjöström, Bibi Andersson, Ingrid Thulin",https://www.imdb.com/title/tt0050986/
+,On the Waterfront,1954,8.1,"Crime, Drama, Thriller","Marlon Brando, Karl Malden, Lee J. Cobb",https://www.imdb.com/title/tt0047296/
+,The Best Years of Our Lives,1947,8.1,"Drama, Romance, War","Myrna Loy, Dana Andrews, Fredric March",https://www.imdb.com/title/tt0036868/
+,The Third Man,1950,8.1,"Drama, Film-Noir, Mystery","Orson Welles, Joseph Cotten, Alida Valli",https://www.imdb.com/title/tt0041959/
+,The Big Lebowski,1998,8.1,"Comedy, Crime","Jeff Bridges, John Goodman, Julianne Moore",https://www.imdb.com/title/tt0118715/
+,The Incredibles,2004,8,"Animation, Action, Adventure","Craig T. Nelson, Samuel L. Jackson, Holly Hunter",https://www.imdb.com/title/tt0317705/
+,Before Sunset,2004,8.1,"Drama, Romance","Ethan Hawke, Julie Delpy, Vernon Dobtcheff",https://www.imdb.com/title/tt0381681/
+,Hachi: A Dog&apos;s Tale,2010,8.1,"Biography, Drama, Family","Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa",https://www.imdb.com/title/tt1028532/
+,Hababam Sinifi: Sinifta Kaldi,,8.4,Comedy,"Münir Özkul, Tarık Akan, Kemal Sunal",https://www.imdb.com/title/tt0252488/
+,Room,2016,8.1,"Drama, Thriller","Brie Larson, Jacob Tremblay, Sean Bridgers",https://www.imdb.com/title/tt3170832/
+,The Exorcist,1973,8.1,Horror,"Ellen Burstyn, Max von Sydow, Linda Blair",https://www.imdb.com/title/tt0070047/
+,Hotel Rwanda,2005,8.1,"Biography, Drama, History","Don Cheadle, Sophie Okonedo, Joaquin Phoenix",https://www.imdb.com/title/tt0395169/
+,Det sjunde inseglet,1958,8.1,"Drama, Fantasy","Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",https://www.imdb.com/title/tt0050976/
+,The Iron Giant,1999,8.1,"Animation, Action, Adventure","Eli Marienthal, Harry Connick Jr., Jennifer Aniston",https://www.imdb.com/title/tt0129167/
+,Platoon,1986,8,"Drama, War","Charlie Sheen, Tom Berenger, Willem Dafoe",https://www.imdb.com/title/tt0091763/
+,Rush,2013,8.1,"Biography, Drama, Sport","Daniel Brühl, Chris Hemsworth, Olivia Wilde",https://www.imdb.com/title/tt1979320/
+,Stand by Me,1986,8.1,"Adventure, Drama","Wil Wheaton, River Phoenix, Corey Feldman",https://www.imdb.com/title/tt0092005/
+,The Wizard of Oz,1939,8.1,"Adventure, Family, Fantasy","Judy Garland, Frank Morgan, Ray Bolger",https://www.imdb.com/title/tt0032138/
+,La battaglia di Algeri,1967,8.1,"Drama, War","Brahim Hadjadj, Jean Martin, Yacef Saadi",https://www.imdb.com/title/tt0058946/
+,Babam ve Oglum,2005,8.2,Drama,"Çetin Tekindor, Fikret Kuşkan, Hümeyra",https://www.imdb.com/title/tt0476735/
+,La passion de Jeanne d&apos;Arc,1928,8.1,"Biography, Drama, History","Maria Falconetti, Eugene Silvain, André Berley",https://www.imdb.com/title/tt0019254/
+,Höstsonaten,1978,8.1,"Drama, Music","Ingrid Bergman, Liv Ullmann, Lena Nyman",https://www.imdb.com/title/tt0077711/
+,Soorarai Pottru,2020,8.6,Drama,"Suriya, Aparna Balamurali, Paresh Rawal",https://www.imdb.com/title/tt10189514/
